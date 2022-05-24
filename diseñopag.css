@@ -1,0 +1,30 @@
+﻿body{
+	background-color:#FBFAE6;
+	color: #17202A
+	font-family:times new roman;
+	font-size: 35px;
+	}
+Header{
+		font-size: 80px;
+		Color: #5B4939;
+		text-shadow: Black 40px 40px 30px;
+		text-align: center;
+      }
+nav{background-color: #11A4B8;Color: #17202A ; font-family:impact;font-size: 30px;}
+	
+	p{
+	color: #17202A ;
+	}
+
+h1{
+  background-color: #17202A ;
+  font-family:impact;
+  font-size: 30px;
+  }
+h2{font-size: 28px; background-color: #11A4B8;color #17202A }
+h3{}
+section{}	
+footer{
+		 
+		}
+aside{}
